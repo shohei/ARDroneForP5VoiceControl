@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/Applications/eclipse/external_jar/jericho-html-3.2/dist/jericho-html-3.2.jar"/>
+	<classpathentry kind="lib" path="/Applications/eclipse/external_jar/Processing/Java/core.jar"/>
+	<classpathentry kind="lib" path="/Users/shohei/Documents/Processing/ARDroneForP5/examples/Aoki_ARDRoneForP5/code/ARDroneForP5.jar"/>
+	<classpathentry kind="lib" path="/Applications/eclipse/external_jar/minim/library/minim.jar"/>
+	<classpathentry kind="lib" path="/Applications/eclipse/external_jar/minim/library/jl1.0.jar"/>
+	<classpathentry kind="lib" path="/Applications/eclipse/external_jar/minim/library/jsminim.jar"/>
+	<classpathentry kind="lib" path="/Applications/eclipse/external_jar/minim/library/minim-spi.jar"/>
+	<classpathentry kind="lib" path="/Applications/eclipse/external_jar/minim/library/mp3spi1.9.4.jar"/>
+	<classpathentry kind="lib" path="/Applications/eclipse/external_jar/minim/library/tritonus_aos.jar"/>
+	<classpathentry kind="lib" path="/Applications/eclipse/external_jar/minim/library/tritonus_share.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
